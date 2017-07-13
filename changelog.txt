@@ -1,0 +1,4 @@
+*** Laravel Polish Validators changelog ***
+
+1.0.0 - 13.07.2017
+* Initial release

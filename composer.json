@@ -1,0 +1,34 @@
+{
+    "name": "dartui/polish-validators",
+    "description": "Polish Validators for Laravel 5.4+",
+    "keywords": ["polish", "validator"],
+    "license": "MIT",
+    "homepage": "http://grabania.pl",
+    "support": {
+        "issues": "https://github.com/Dartui/laravel-polish-validators/issues",
+        "source": "https://github.com/Dartui/laravel-polish-validators"
+    },
+    "authors": [
+        {
+            "name": "Krzysztof Grabania",
+            "email": "krzysztof@grabania.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dartui\\PolishValidators\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dartui\\PolishValidators\\ServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
