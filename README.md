@@ -28,7 +28,7 @@ Dartui\PolishValidators\ServiceProvider::class
 Now you need to add message to language files in `resources/lang/XX/validation.php`
 
 ```php
-'valid' => ':attribute is not valid.',
+'valid' => 'The :attribute is not valid.',
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
     "name": "dartui/polish-validators",
-    "description": "Polish Validators for Laravel 5.4+",
+    "description": "Polish Validators for Laravel",
     "keywords": ["polish", "validator"],
     "license": "MIT",
     "homepage": "http://grabania.pl",
