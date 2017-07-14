@@ -1,6 +1,6 @@
 # Laravel Polish Validators
 
-## Awailable rules
+## Available rules
 
 Name | Description | Example | Field or Parameter
 :-: | - | - | - 
